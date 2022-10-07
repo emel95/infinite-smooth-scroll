@@ -1,15 +1,15 @@
-# infinite-smooth-scroll
+# infinite-smooth-scroll for React Native
 
- An **infinite smooth scroll** that rotates infinitely on a limited data.
+ An **infinite smooth scroll** that rotates infinitely on a limited data .
 
 # Install
 
 ```
-yarn add Infinite-smooth-scroll
+yarn add infinite-smooth-scroll
 
 or
 
-npm i Infinite-smooth-scroll
+npm i infinite-smooth-scroll
 ```
 
 ## Note : Attention, when using this component, we must give it the parent component of flex: 1 .

@@ -1,12 +1,19 @@
 {
   "name": "infinite-smooth-scroll",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "private": false,
   "description": "An infinite smooth scroll that rotates infinitely on a limited data. ",
   "main": "index.ts",
   "repository": "https://github.com/emel95/infinite-smooth-scroll.git",
   "author": "emel95",
   "license": "MIT",
+  "keywords": [
+    "react-native",
+    "reactnative",
+    "cross-platform",
+    "infinite-smooth-scroll",
+    "smooth-infinite-scroll"
+  ],
   "peerDependencies": {
     "react": "^18.2.0",
     "react-native": "^0.69.1"
