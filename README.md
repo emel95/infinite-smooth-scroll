@@ -12,9 +12,12 @@ or
 npm i infinite-smooth-scroll
 ```
 
+
+
+<img src='screenshots/ininitvideo.gif' width="100" >
+
+
 ## Note : Attention, when using this component, we must give it the parent component of flex: 1 .
-
-
 
 # Usage
 ```
